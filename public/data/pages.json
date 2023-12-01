@@ -1,0 +1,9 @@
+{
+  "pages": [
+    {
+      "title": "Blog",
+      "name": "blog",
+      "demoSections": [{ "name": "blogLanding" }]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "_type": "primaryMenuItem",
+      "slug": "hello-plugin",
+      "label": "Hello Plugin",
+      "url": "/hello-plugin"
+    }
+  ]
+}

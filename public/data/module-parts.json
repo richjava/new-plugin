@@ -1,0 +1,10 @@
+{
+  "moduleParts": [
+    {
+      "title": "Hello Plugin Base",
+      "name": "helloPluginBase",
+      "page": { "name": "blog" },
+      "sections": [{ "name": "blogLanding" }]
+    }
+  ]
+}

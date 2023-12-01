@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "header": { "name": "header", "category": "layout" },
+    "footer": { "name": "footer", "category": "layout" },
+    "blogLanding": {
+      "name": "blogLanding",
+      "category": "body",
+      "fields": { "heading": { "type": "string" } }
+    }
+  }
+}

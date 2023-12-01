@@ -1,0 +1,11 @@
+{
+  "modules": [
+    {
+      "title": "Blog",
+      "description": "Blog",
+      "name": "helloPlugin",
+      "moduleParts": [{ "name": "helloPluginBase" }],
+      "required": false
+    }
+  ]
+}
